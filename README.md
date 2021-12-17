@@ -1,7 +1,5 @@
 # airplaypro
 
-AirPlay Extreme Pro
+AirPlay Extreme Pro[![Netlify Status](https://api.netlify.com/api/v1/badges/3bc554fb-3474-4bd7-81f9-4c2c4d70c81b/deploy-status)](https://app.netlify.com/sites/airplaypro/deploys)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1f1fe422-6933-4bc7-81c7-bebaca207276/deploy-status)](https://app.netlify.com/sites/airplaypro/deploys)
-
-Try it in action at https://bit.ly/airplaypro
+Try it live on air at https://bit.ly/airplaypro
